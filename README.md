@@ -9,7 +9,7 @@ Tested on Debian 10, Ubuntu 16.04, Ubuntu 18.04, Ubuntu 20.04, macOS 10.12, Cent
 ## Zero-knowledge install:
 If you using Ubuntu or Debian and not familiar with Ansible, you can just execute [install.sh](install.sh) on target machine:
 ```
-curl https://raw.githubusercontent.com/viasite-ansible/ansible-role-zsh/master/install.sh | bash
+curl https://raw.githubusercontent.com/Algebregama/ansible-role-zsh/master/install.sh | bash
 ```
 It will install pip3, ansible and setup zsh for root and current user.
 
